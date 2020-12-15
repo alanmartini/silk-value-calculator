@@ -1,4 +1,3 @@
-
 $(function(){
 
 	$('.gold').on('focusout', function(){
